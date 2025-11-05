@@ -44,3 +44,8 @@ Personaliza el comportamiento en la pestaña "CONFIG":
 ## 📞 Soporte
 
 ¿Problemas o preguntas? Abre un issue en este repositorio.
+
+
+## 🏷️ Etiquetas
+
+`google-apps-script` `google-sheets` `automation` `notifications` `email-automation` `productivity` `task-management` `javascript` `google-workspace` `project-management` `workflow-automation` `team-collaboration` `business-tools` `no-code` `free-tool`
